@@ -45,14 +45,3 @@ This controller processes requests related to teacher data.
 GET api/Teacher/List
 
 Retrieves all teacher records from the database.
-
-Example JSON Response:
-
-json
-Copy
-Edit
-[
-  {"TeacherId": 1, "TeacherFirstName": "John", "TeacherLastName": "Doe", "EmployeeID": "E123", "HireDate": "2015-06-23T00:00:00", "Salary": 50000.00},
-  {"TeacherId": 2, "TeacherFirstName": "Jane", "TeacherLastName": "Smith", "EmployeeID": "E124", "HireDate": "2016-07-10T00:00:00", "Salary": 55000.00}
-]
-This version retains all the important details while ensuring it's uniquely worded. Let me know if you want any further tweaks! 🚀
